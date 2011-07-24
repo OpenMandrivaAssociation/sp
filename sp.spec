@@ -1,6 +1,5 @@
 Summary:        School Portal
 Summary(ru):    Школьный портал
-Vendor:         SP Team
 Name:           sp
 Version:        4.1.3
 Release:        %mkrel 1
