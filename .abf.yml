@@ -1,0 +1,8 @@
+sources:
+  "000-sp.conf:"	0d60b60c252095e17c4c36541fed6d8b20ad2bcb
+  "CMS.gdb:"	84e60eba6b632582714437278e21bc798b5aea79
+  ".htaccess:"	2a4de30895667578731089766a59ff130b0c975f
+  "sp-for-rpm.tar.bz2:"	3c4c7e817c6c18d9f404b9190df82c8165f289c4
+  "UDFLib.dll:"	14aec08161d320cddb3260e750ff8c9295ce124a
+  "update_xxi.pl:"	bcbb1a6f4aabafb64af50a95b2f477e6e0f5a663
+  "XXI.gdb:"	9993e879f35203af926db9b2d4830a78fd29a1c4
