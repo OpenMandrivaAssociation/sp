@@ -4,7 +4,7 @@ Name:           sp
 Version:        4.1.3
 Release:        %mkrel 1
 License:        Prop
-URL:            http://spcms.ru
+URL:            https://spcms.ru
 Group:          Networking/WWW
 Source0:        sp-for-rpm.tar.bz2
 Source1:	.htaccess
