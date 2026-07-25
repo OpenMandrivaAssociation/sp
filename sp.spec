@@ -2,7 +2,7 @@ Summary:        School Portal
 Summary(ru):    Школьный портал
 Name:           sp
 Version:        4.1.3
-Release:        %mkrel 1
+Release:        2
 License:        Prop
 URL:            https://spcms.ru
 Group:          Networking/WWW
